@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Voyagers.Utilies.ObjectComparer</id>
+    <id>Voyagers.Utilities.ObjectComparer</id>
     <version>1.0.0</version>
     <authors>rexng</authors>
     <owners>rexng</owners>
