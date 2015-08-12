@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Voyagers.Utilities.ObjectComparer")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("ObjectComparer library that compares and reports the differences between two .NET objects. It is made to specifically cater for comparisons between two entities using Entity Framework.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("rexng")]
 [assembly: AssemblyProduct("Voyagers.Utilities.ObjectComparer")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
